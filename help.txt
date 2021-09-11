@@ -1,0 +1,2 @@
+YARN ->gerenciador de dependencias e build
+yarn start
